@@ -9,6 +9,7 @@
 .yarn/install-state.gz
 
 # yarn 4
+.yarn
 .yarn/*
 !.yarn/cache
 !.yarn/patches
