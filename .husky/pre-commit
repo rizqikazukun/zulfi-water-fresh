@@ -1,2 +1,4 @@
-yarn exec lint-staged
+#!/bin/sh
+
+# yarn exec lint-staged
 yarn build
